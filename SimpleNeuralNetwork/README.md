@@ -1,5 +1,8 @@
 Simple Neural Network Model for binary classification for cats and dogs
 using just one hidden layer and a batch size of 10 and epochs of 10
+Create a virtuaal environment using the requirements.txt before trying out the scripts.
+Dataset from downloaded from kaggle. 
+
 
 
 Lessons learned
